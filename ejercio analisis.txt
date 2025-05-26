@@ -1,0 +1,21 @@
+Resumen breve - Método Gráfico de Programación Lineal
+
+Función objetivo:
+  Z = 12·x₁ + 8·x₂
+
+Restricciones:
+  1) 2·x₁ + 2·x₂ ≥ 16
+  2) -4·x₁ + x₂ ≥ 20
+  3) x₁ ≥ 0
+  4) x₂ ≥ 0
+
+Vértice factible:
+  (0, 20)
+
+Evaluación en (0, 20):
+  Z = 12·0 + 8·20 = 160
+
+Conclusiones:
+  - Valor mínimo: Z_min = 160 en (0, 20)
+  - Valor máximo: no existe un máximo finito (la región es no acotada)
+
